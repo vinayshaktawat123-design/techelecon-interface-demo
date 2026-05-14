@@ -1,1 +1,0 @@
-# techelecon-interface-demo
